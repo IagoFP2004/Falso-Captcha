@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+#titulo{
+    color: white;
+    text-align: center;
+}
+
+#imagen1{
+    margin-left:  40%;
+    margin-top: 10%;
+}
+
+#texto{
+    color: white;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    margin-left:  5%;
+    margin-right: 5%;
+}
